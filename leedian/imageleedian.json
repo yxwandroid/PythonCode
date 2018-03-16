@@ -1,0 +1,20 @@
+[
+    {
+        "x": "11141",
+        "y": "930",
+        "layerId": "d1a0d30f-d918-47bb-977b-8f2ec96ecff4",
+        "filename": "Leedian-1F-X-"
+    },
+    {
+        "x": "11141",
+        "y": "2281",
+        "layerId": "d1a0d30f-d918-47bb-977b-8f2ec96ecff4",
+        "filename": "Leedian-1F-Y-"
+    },
+    {
+        "x": "9889",
+        "y": "2281",
+        "layerId": "d1a0d30f-d918-47bb-977b-8f2ec96ecff4",
+        "filename": "Leedian-1F-Z-"
+    }
+]
