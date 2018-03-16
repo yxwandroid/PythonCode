@@ -1,10 +1,10 @@
-message = "hello world python"
-print(message)
-
-name = 'ada lovelace'
-print(name.title())   #首字母大写
-print(name.upper())   #全部大写
-print(name.lower())   #全部小写
+# message = "hello world python"
+# print(message)
+#
+# name = 'ada lovelace'
+# print(name.title())   #首字母大写
+# print(name.upper())   #全部大写
+# print(name.lower())   #全部小写
 #
 #
 # msg = ' python '
@@ -13,17 +13,10 @@ print(name.lower())   #全部小写
 # print(msg.strip())
 #
 #
-#
 # age = 23
 # msg = "Happy "+str(age)+" rd Birthday"  # 必须使用str()否则python识别不了
-#
 # print(msg)
 #
-
-
-# bicycles = ['trek','cannondale','redline','specialized']
-#
-# print(bicycles)
 
 #
 # names = ['zhangsan', 'lisi', 'wangwu', 'zhaoliu']
@@ -37,6 +30,11 @@ print(name.lower())   #全部小写
 # names.insert(0, 'honda0')
 # print(names)
 
-nicks = ['zhangsan', 'lisi', 'wangwu', 'zhaoliu']
-del nicks[0]
-print(nicks)
+# nicks = ['zhangsan', 'lisi', 'wangwu', 'zhaoliu']
+# del nicks[0]
+# print(nicks)
+
+
+# print(r"this video \n")  # 使用r代表不转义字符
+
+
