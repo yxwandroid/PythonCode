@@ -37,4 +37,15 @@
 
 # print(r"this video \n")  # 使用r代表不转义字符
 
+# tempNum=111
+# print(float(tempNum))
 
+
+class Person:
+    pass
+
+
+
+person=Person
+person.name="wilson"
+print(person.name)

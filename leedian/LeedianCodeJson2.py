@@ -4,22 +4,30 @@ import json
 # outPutPath='/Users/yangxuewu/Desktop/imageNameleedian.json'
 outPutPath=os.path.abspath('.')+'/imageNameleedian.json'
 
-with open(os.path.abspath('.')+'/imageleedian.json', encoding='utf-8') as f:
-    line = f.read()
-    jsonStr = json.loads(line)
-    new = []
-    for user in jsonStr:
+def getCreatCode():
 
-        for a in range(6):
-          tempFileName=user['filename']+str(a)
-          outPutTxt="checkPointsDic[\""+tempFileName+"\"] = PlanCheckPoint(x: "+user['x']+", y: 0, z: "+user['y']+", layerId:\""+user['layerId']+"\");"
-          file_object = open(outPutPath, 'a')
-          file_object.write("\n"+outPutTxt)
-          file_object.close()
-          print(outPutTxt)
+    with open(os.path.abspath('.') + '/imageleedian.json', encoding='utf-8') as f:
+        line = f.read()
+        jsonStr = json.loads(line)
+        new = []
+        for user in jsonStr:
+
+            for a in range(6):
+                tempFileName = user['filename'] + str(a)
+                outPutTxt = "checkPointsDic[\"" + tempFileName + "\"] = PlanCheckPoint(x: " + user[
+                    'x'] + ", y: 0, z: " + user['y'] + ", layerId:\"" + user['layerId'] + "\");"
+                file_object = open(outPutPath, 'w')
+                file_object.write("\n" + outPutTxt)
+                file_object.close()
+                print(outPutTxt)
+
+        f.close()
 
 
-    f.close()
+
+
+
+getCreatCode()
 
 
 
@@ -29,19 +37,8 @@ with open(os.path.abspath('.')+'/imageleedian.json', encoding='utf-8') as f:
 
 
 
-#
-#
-# outPutPath='/Users/yangxuewu/Desktop/imageName.json'
-#
-# file_object = open(outPutPath, 'w')
-#file_object.write('112')
-# file_object.close( )
-# for i in range(len(listImagePoint)):
-#
-#
-#     print(i, listImagePoint[i])
-#
-#
-#
-#
-#
+
+
+
+
+

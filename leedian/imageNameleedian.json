@@ -1,19 +1,2 @@
 
-checkPointsDic["Leedian-1F-X-0"] = PlanCheckPoint(x: 11141, y: 0, z: 930, layerId:"d1a0d30f-d918-47bb-977b-8f2ec96ecff4");
-checkPointsDic["Leedian-1F-X-1"] = PlanCheckPoint(x: 11141, y: 0, z: 930, layerId:"d1a0d30f-d918-47bb-977b-8f2ec96ecff4");
-checkPointsDic["Leedian-1F-X-2"] = PlanCheckPoint(x: 11141, y: 0, z: 930, layerId:"d1a0d30f-d918-47bb-977b-8f2ec96ecff4");
-checkPointsDic["Leedian-1F-X-3"] = PlanCheckPoint(x: 11141, y: 0, z: 930, layerId:"d1a0d30f-d918-47bb-977b-8f2ec96ecff4");
-checkPointsDic["Leedian-1F-X-4"] = PlanCheckPoint(x: 11141, y: 0, z: 930, layerId:"d1a0d30f-d918-47bb-977b-8f2ec96ecff4");
-checkPointsDic["Leedian-1F-X-5"] = PlanCheckPoint(x: 11141, y: 0, z: 930, layerId:"d1a0d30f-d918-47bb-977b-8f2ec96ecff4");
-checkPointsDic["Leedian-1F-Y-0"] = PlanCheckPoint(x: 11141, y: 0, z: 2281, layerId:"d1a0d30f-d918-47bb-977b-8f2ec96ecff4");
-checkPointsDic["Leedian-1F-Y-1"] = PlanCheckPoint(x: 11141, y: 0, z: 2281, layerId:"d1a0d30f-d918-47bb-977b-8f2ec96ecff4");
-checkPointsDic["Leedian-1F-Y-2"] = PlanCheckPoint(x: 11141, y: 0, z: 2281, layerId:"d1a0d30f-d918-47bb-977b-8f2ec96ecff4");
-checkPointsDic["Leedian-1F-Y-3"] = PlanCheckPoint(x: 11141, y: 0, z: 2281, layerId:"d1a0d30f-d918-47bb-977b-8f2ec96ecff4");
-checkPointsDic["Leedian-1F-Y-4"] = PlanCheckPoint(x: 11141, y: 0, z: 2281, layerId:"d1a0d30f-d918-47bb-977b-8f2ec96ecff4");
-checkPointsDic["Leedian-1F-Y-5"] = PlanCheckPoint(x: 11141, y: 0, z: 2281, layerId:"d1a0d30f-d918-47bb-977b-8f2ec96ecff4");
-checkPointsDic["Leedian-1F-Z-0"] = PlanCheckPoint(x: 9889, y: 0, z: 2281, layerId:"d1a0d30f-d918-47bb-977b-8f2ec96ecff4");
-checkPointsDic["Leedian-1F-Z-1"] = PlanCheckPoint(x: 9889, y: 0, z: 2281, layerId:"d1a0d30f-d918-47bb-977b-8f2ec96ecff4");
-checkPointsDic["Leedian-1F-Z-2"] = PlanCheckPoint(x: 9889, y: 0, z: 2281, layerId:"d1a0d30f-d918-47bb-977b-8f2ec96ecff4");
-checkPointsDic["Leedian-1F-Z-3"] = PlanCheckPoint(x: 9889, y: 0, z: 2281, layerId:"d1a0d30f-d918-47bb-977b-8f2ec96ecff4");
-checkPointsDic["Leedian-1F-Z-4"] = PlanCheckPoint(x: 9889, y: 0, z: 2281, layerId:"d1a0d30f-d918-47bb-977b-8f2ec96ecff4");
 checkPointsDic["Leedian-1F-Z-5"] = PlanCheckPoint(x: 9889, y: 0, z: 2281, layerId:"d1a0d30f-d918-47bb-977b-8f2ec96ecff4");
